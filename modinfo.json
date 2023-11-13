@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "tapable_windows",
+    "name": "Tapable (Barred) Windows",
+    "authors": [ "Ka1saraz" ],
+    "description": "Allows windows & window frames with bars to be taped. Be sniffed no more.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
